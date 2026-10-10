@@ -1,0 +1,8 @@
+benchmarks/*.exe
+data/*.mp4
+data/raw/
+data/lowres/
+__pycache__/
+*.pyc
+.venv/
+venv/
